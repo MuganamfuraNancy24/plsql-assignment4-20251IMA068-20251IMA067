@@ -1,1 +1,19 @@
+# Oracle and SQL Developer temporary files
+*.log
+*.trc
+*.tmp
+*.dmp
 
+# Operating system files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.bak
+*.swp
+*~
